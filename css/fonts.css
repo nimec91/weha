@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "PT Serif Regular";
+    src: url(../fonts/PTSerifRegular.eot);
+    src: url(../fonts/PTSerifRegular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/PTSerifRegular.woff) format('woff'),
+        url(../fonts/PTSerifRegular.ttf)  format('truetype');
+}
+@font-face {
+    font-family: "PT Serif Italic";
+    src: url(../fonts/PTSerifItalic.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Museo Sans Cyrl 700";
+    src: url(../fonts/MuseoSansCyrl700.eot);
+    src: url(../fonts/MuseoSansCyrl700.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/MuseoSansCyrl700.woff) format('woff'),
+    url(../fonts/MuseoSansCyrl700.ttf)  format('truetype');
+    url(../fonts/MuseoSansCyrl700.otf) format('opentype');
+}
+@font-face {
+    font-family: "Museo Sans Cyrl 300";
+    src: url(../fonts/MuseoSansCyrl300.eot);
+    src: url(../fonts/MuseoSansCyrl300.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/MuseoSansCyrl300.woff) format('woff'),
+    url(../fonts/MuseoSansCyrl300.ttf)  format('truetype');
+    url(../fonts/MuseoSansCyrl300.otf) format('opentype')
+}
